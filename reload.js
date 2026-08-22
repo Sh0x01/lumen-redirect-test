@@ -1,1 +1,1 @@
-fetch("https://367f8rt0pri9d8k5byonicu1qswjke83.oastify.com.oastify.com/test?hit=" + Date.now());
+fetch("https://ecui5oxw2gpt8wb8upd77ou6lxrofe33.oastify.com/test?hit=" + Date.now());
